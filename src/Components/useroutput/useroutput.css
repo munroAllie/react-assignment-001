@@ -1,0 +1,10 @@
+.useroutput{
+    text-align: left;
+    color: #0C0C0C;
+    margin: 6px;
+}
+
+.useroutput p {
+    display: inline-block;
+    margin: 6px;
+}

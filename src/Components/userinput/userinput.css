@@ -1,0 +1,16 @@
+.userinput {
+    text-align: left;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ccc;
+    background-color: #fff;
+    box-shadow: 0 2px 0 #ccc;
+    width: 400px;
+    margin: 6px;
+    padding: 6px;
+}
+
+.userinput p{
+    display: inline-block;
+    margin-right: 6px;
+}
